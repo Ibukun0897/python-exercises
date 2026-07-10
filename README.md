@@ -1,1 +1,1 @@
-These are a few Pyhthon codes I worked on while I was learning Python in a training internship.
+These are a few Python codes I worked on while I was learning the Python programming language in a training internship.
